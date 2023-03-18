@@ -391,6 +391,9 @@ ul.nav-items li a:hover {
       flex-basis: 100%;
       margin-bottom: 2rem;
     }
+     .contact-links{
+    padding: 20px 20px;
+  }
   }
   
 
