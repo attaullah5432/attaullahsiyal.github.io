@@ -251,6 +251,12 @@ ul.nav-items li a:hover {
     background-color: #f7f7f7;
     padding: 80px 0;
   }
+#projects .details-para{
+    padding : 0 100px;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
 #projects h2{
     text-align: center;
 }
@@ -285,6 +291,10 @@ ul.nav-items li a:hover {
     color: #666;
   }
   
+  .software-logo{
+    height: 300px;
+    width: 300px;
+  }
 
 /* Contact section styles */
 #contact {
@@ -391,9 +401,6 @@ ul.nav-items li a:hover {
       flex-basis: 100%;
       margin-bottom: 2rem;
     }
-     .contact-links{
-    padding: 20px 20px;
-  }
   }
   
 
